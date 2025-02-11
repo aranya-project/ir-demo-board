@@ -3,3 +3,4 @@ _autosave-*
 ~*
 *-backups/
 fp-info-cache
+.DS_Store
