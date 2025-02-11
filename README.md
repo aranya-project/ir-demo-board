@@ -108,3 +108,19 @@ enable 4-bit SD through the SD/MMC controller.
  GPIOs 14-18 are unused and are broken out for futher expansion. The I2C
  lines are also available, as well as VBATT, VBUS, 3V3, GND, EN, and
  ~RST.
+
+## Mechanical
+
+The board is 1.4 inches wide and 2.3 inches tall (35.56 x 58.42mm). The
+component sizes should be similar to their footprint outlines, giving it
+a maximum horizontal extent of 1.51" (38.354mm) with both side IR
+transceivers installed, and a maximum vertical extent of 2.51"
+(63.754mm) with the top transceiver installed and an SD card inserted.
+
+Four mounting holes on the corners are sized for M2.5 screws. They are
+0.11" (2.794mm) from the edges, which is also the corner radius.
+
+A 0.15x0.25 inch (3.81x6.35mm) cutout is provided near the Feather's
+battery connector in the upper right. This allows any battery cables to
+be routed below the board even if the board is mounted flush against a
+case.
